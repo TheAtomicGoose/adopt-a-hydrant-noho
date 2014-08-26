@@ -33,7 +33,7 @@ en:
     this_thing: "This %{thing}"
     tagline: "Claim responsibility for shoveling out a fire hydrant after it snows."
     tos: "By signing up, you agree to the %{tos}."
-    voice_number: "413-588-2815"
+    voice_number: "413-585-1234"
     zip: "01060"
   errors:
     password: "You need to sign in or sign up before continuing."
