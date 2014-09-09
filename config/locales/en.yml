@@ -27,7 +27,7 @@ en:
     city: "Northampton"
     city_state: "Northampton, Massachusetts"
     neighborhood: "Downtown"
-    sms_number: "413-588-2815"
+    sms_number: "413-588-9999"
     state: "MA"
     thing: "hydrant"
     this_thing: "This %{thing}"
